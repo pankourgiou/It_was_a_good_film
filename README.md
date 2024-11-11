@@ -1,0 +1,3 @@
+# It_was_a_good_film
+So searching for info and possible solutions, I searched this info about the Zodiac killer...I had seen the movie...anyway long story short, the patterns don't really match Zk code is about 51 years old after all....so we should exclude this idea...it seems funny but I am a kinda rookie programmer
+and I see many different things here and there...anyway take a look this is from plot_1.R script...
